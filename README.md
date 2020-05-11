@@ -1,10 +1,8 @@
 # BabyTask
-A (very) lightweight concurrent task based programing model.
-
-Just think of a (not as powerfull or amazing, yet still very performant) alternative to TBB or the amazing CPP-TaskFlow.
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/60dee26081f547baa293ccf2dc7b7002)](https://www.codacy.com/app/DanIsraelMalta/BabyTask?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanIsraelMalta/BabyTask&amp;utm_campaign=Badge_Grade)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/te9bjp4yfhq7f8hq?svg=true)](https://ci.appveyor.com/project/TsungWeiHuang/cpp-taskflow)
+
+A (very) lightweight concurrent task based programing model. Just think of a (not as powerfull or amazing, yet still very performant) alternative to TBB or the amazing CPP-TaskFlow.
 
 I belive that simple usage examples can explain everything...
 
